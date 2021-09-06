@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/16",
-    "result": {"pageContext":{"data":{"id":"16","attributes":[{"trait_type":"Skin","value":"Blue"},{"trait_type":"Face","value":"Nerd Glasses"},{"trait_type":"Top","value":"Skull Tee"},{"trait_type":"Bottom","value":"Harem Pants"}],"background_color":"FF9740","description":"Blue skinned, nerd glasses imp - complete with skull tee and harem pants","external_url":"http://pickimpmix.com/16","image":"ipfs://QmU8CWgevhx34Ya4ug8zsURGsZ5NQ4zLikpgrYhKvE9itM","name":"Pick 'Imp' Mix #16"}}},
+    "result": {"pageContext":{"data":{"id":"16","attributes":[{"trait_type":"Skin","value":"Blue"},{"trait_type":"Face","value":"Eye Patch"},{"trait_type":"Top","value":"Vest"},{"trait_type":"Bottom","value":"Kilt"}],"background_color":"FF9740","description":"Blue skinned, eye patch imp - complete with vest and kilt","external_url":"http://pickimpmix.github.io/imp/16","image":"ipfs://QmRT6GvF7y3XnDQXQzDTiNBvPda7KfFjmygaLix2jG5MTi","name":"Pick 'Imp' Mix #16"}}},
     "staticQueryHashes": []}

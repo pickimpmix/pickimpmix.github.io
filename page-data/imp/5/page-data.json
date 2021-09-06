@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/5",
-    "result": {"pageContext":{"data":{"id":"5","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"Sunglasses"},{"trait_type":"Top","value":"Vest"},{"trait_type":"Bottom","value":"Jeans"}],"background_color":"62B311","description":"Red skinned, sunglasses imp - complete with vest and jeans","external_url":"http://pickimpmix.com/5","image":"ipfs://QmcjmifFcViCvkqxFSPybdk4fdBbox8WzfXCaFEY6yXPym","name":"Pick 'Imp' Mix #5"}}},
+    "result": {"pageContext":{"data":{"id":"5","attributes":[{"trait_type":"Skin","value":"Green"},{"trait_type":"Face","value":"Nerd Glasses"},{"trait_type":"Top","value":"White Collared Shirt"},{"trait_type":"Bottom","value":"Towel"}],"background_color":"D23583","description":"Green skinned, nerd glasses imp - complete with white collared shirt and towel","external_url":"http://pickimpmix.github.io/imp/5","image":"ipfs://QmXMd51kaf9rB74UZyTc8uhAZE4bqmiUnmZJbP8XRkWPHA","name":"Pick 'Imp' Mix #5"}}},
     "staticQueryHashes": []}

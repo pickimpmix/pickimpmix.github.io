@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/10",
-    "result": {"pageContext":{"data":{"id":"10","attributes":[{"trait_type":"Skin","value":"Green"},{"trait_type":"Face","value":"Red Eyes"},{"trait_type":"Top","value":"Skull Tee"},{"trait_type":"Bottom","value":"Heart Boxer Shorts"}],"background_color":"D23583","description":"Green skinned, red eyes imp - complete with skull tee and heart boxer shorts","external_url":"http://pickimpmix.com/10","image":"ipfs://QmVJCQVEo1ZhJGTmVAqBHxNRZ5DZMLNgjJ5Bw3TUBKaTs6","name":"Pick 'Imp' Mix #10"}}},
+    "result": {"pageContext":{"data":{"id":"10","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"Green Eyes"},{"trait_type":"Top","value":"Vest"},{"trait_type":"Bottom","value":"Heart Boxer Shorts"}],"background_color":"62B311","description":"Red skinned, green eyes imp - complete with vest and heart boxer shorts","external_url":"http://pickimpmix.github.io/imp/10","image":"ipfs://QmVPr1HqecBDVRJQpKavuMnmk57VWXc1SADzJv2mGnRmox","name":"Pick 'Imp' Mix #10"}}},
     "staticQueryHashes": []}

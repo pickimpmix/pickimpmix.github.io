@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/1",
-    "result": {"pageContext":{"data":{"id":"1","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"Eye Patch"},{"trait_type":"Top","value":"Festive Jumper"},{"trait_type":"Bottom","value":"Lifeguard Shorts"}],"background_color":"62B311","description":"Red skinned, eye patch imp - complete with festive jumper and lifeguard shorts","external_url":"http://pickimpmix.com/1","image":"ipfs://QmWog1EiF1fLPybv8S5UX7ah8npMmW1EXLpmXARLUuWaAy","name":"Pick 'Imp' Mix #1"}}},
+    "result": {"pageContext":{"data":{"id":"1","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"Green Eyes"},{"trait_type":"Top","value":"Skull Tee"},{"trait_type":"Bottom","value":"Suit Trousers"}],"background_color":"62B311","description":"Red skinned, green eyes imp - complete with skull tee and suit trousers","external_url":"http://pickimpmix.github.io/imp/1","image":"ipfs://QmNyjaKJxw5UxUZUcycDsrYs4m137s5Nm61arHFaPDFLAg","name":"Pick 'Imp' Mix #1"}}},
     "staticQueryHashes": []}

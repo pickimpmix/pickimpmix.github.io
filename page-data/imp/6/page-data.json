@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/6",
-    "result": {"pageContext":{"data":{"id":"6","attributes":[{"trait_type":"Skin","value":"Green"},{"trait_type":"Face","value":"Yellow Eyes"},{"trait_type":"Top","value":"White Collared Shirt"},{"trait_type":"Bottom","value":"Heart Boxer Shorts"}],"background_color":"D23583","description":"Green skinned, yellow eyes imp - complete with white collared shirt and heart boxer shorts","external_url":"http://pickimpmix.com/6","image":"ipfs://QmdvWAjAyNGmeFuVgYjeW9QpTC84uEquiQbd8PnCZeptPw","name":"Pick 'Imp' Mix #6"}}},
+    "result": {"pageContext":{"data":{"id":"6","attributes":[{"trait_type":"Skin","value":"Green"},{"trait_type":"Face","value":"Sunglasses"},{"trait_type":"Top","value":"College Hoodie"},{"trait_type":"Bottom","value":"Kilt"}],"background_color":"D23583","description":"Green skinned, sunglasses imp - complete with college hoodie and kilt","external_url":"http://pickimpmix.github.io/imp/6","image":"ipfs://QmRnSUG1ipRNVJJgW4pNmswYa1fDR4o4SVZye3QFpv3caB","name":"Pick 'Imp' Mix #6"}}},
     "staticQueryHashes": []}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/12",
-    "result": {"pageContext":{"data":{"id":"12","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"3D Glasses"},{"trait_type":"Top","value":"Festive Jumper"},{"trait_type":"Bottom","value":"Tutu"}],"background_color":"62B311","description":"Red skinned, 3d glasses imp - complete with festive jumper and tutu","external_url":"http://pickimpmix.com/12","image":"ipfs://Qmaaw3E1PuFK1QY8xSNviaHfvNy93h6CQQ4APgjRN1NVyH","name":"Pick 'Imp' Mix #12"}}},
+    "result": {"pageContext":{"data":{"id":"12","attributes":[{"trait_type":"Skin","value":"Green"},{"trait_type":"Face","value":"Eye Patch"},{"trait_type":"Top","value":"Vest"},{"trait_type":"Bottom","value":"Kilt"}],"background_color":"D23583","description":"Green skinned, eye patch imp - complete with vest and kilt","external_url":"http://pickimpmix.github.io/imp/12","image":"ipfs://QmaXsD13WRBnC87wdSuZ9pYXwv9y12dGUWqDLYL3vgVMRv","name":"Pick 'Imp' Mix #12"}}},
     "staticQueryHashes": []}
