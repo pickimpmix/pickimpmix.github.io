@@ -1,1 +1,35 @@
-{"id":5,"description":"Green skinned, nerd glasses imp - complete with white collared shirt and towel","external_url":"http://pickimpmix.github.io/imp/5","background_color":"D23583","image":"ipfs://QmXMd51kaf9rB74UZyTc8uhAZE4bqmiUnmZJbP8XRkWPHA","name":"Pick \u0027Imp\u0027 Mix #5","attributes":[{"trait_type":"Skin","value":"Green"},{"trait_type":"Face","value":"Nerd Glasses"},{"trait_type":"Top","value":"White Collared Shirt"},{"trait_type":"Bottom","value":"Towel"}],"title":"Pick \u0027Imp\u0027 Mix #5 Metadata","type":"object","properties":{"name":{"type":"string","description":"Pick \u0027Imp\u0027 Mix #5"},"description":{"type":"string","description":"Green skinned, nerd glasses imp - complete with white collared shirt and towel"},"image":{"type":"string","description":"ipfs://QmXMd51kaf9rB74UZyTc8uhAZE4bqmiUnmZJbP8XRkWPHA"}}}
+{
+  "id": 5,
+  "description": "Gold skinned, purple eyes imp - complete with Judo Boy outfit",
+  "external_url": "http://pickimpmix.github.io/imp/5",
+  "background_color": "7FFFFF",
+  "image": "ipfs://QmVX93rk7mtDzyVDcAG5aYkbiXPNkXsCpSq4u91ttdqmCv",
+  "name": "Pick \u0027Imp\u0027 Mix #5",
+  "attributes": [
+    { "trait_type": "Skin", "value": "Gold" },
+    { "trait_type": "Face", "value": "Judo Boy Headband" },
+    { "trait_type": "Top", "value": "Judo Boy Gi Top" },
+    { "trait_type": "Bottom", "value": "Judo Boy Gi Bottoms" }
+  ],
+  "title": "Pick \u0027Imp\u0027 Mix #5 Metadata",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string", "description": "Pick \u0027Imp\u0027 Mix #5" },
+    "description": {
+      "type": "string",
+      "description": "Gold skinned, purple eyes imp - complete with Judo Boy outfit"
+    },
+    "image": {
+      "type": "string",
+      "description": "ipfs://QmVX93rk7mtDzyVDcAG5aYkbiXPNkXsCpSq4u91ttdqmCv"
+    },
+    "digital_media_signature_type": {
+      "type": "string",
+      "description": "SHA-256"
+    },
+    "digital_media_signature": {
+      "type": "string",
+      "description": "c0164884370977b65cf0480dca1497ea6b519cf88e4fe5cc693424629cf67a84"
+    }
+  }
+}

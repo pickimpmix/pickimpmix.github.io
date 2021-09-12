@@ -1,1 +1,35 @@
-{"id":7,"description":"Blue skinned, red eyes imp - complete with white collared shirt and towel","external_url":"http://pickimpmix.github.io/imp/7","background_color":"FF9740","image":"ipfs://QmV129j2pzE1VaecUsy5GhVDMHEKuvgSwpou6biaEmAVwh","name":"Pick \u0027Imp\u0027 Mix #7","attributes":[{"trait_type":"Skin","value":"Blue"},{"trait_type":"Face","value":"Red Eyes"},{"trait_type":"Top","value":"White Collared Shirt"},{"trait_type":"Bottom","value":"Towel"}],"title":"Pick \u0027Imp\u0027 Mix #7 Metadata","type":"object","properties":{"name":{"type":"string","description":"Pick \u0027Imp\u0027 Mix #7"},"description":{"type":"string","description":"Blue skinned, red eyes imp - complete with white collared shirt and towel"},"image":{"type":"string","description":"ipfs://QmV129j2pzE1VaecUsy5GhVDMHEKuvgSwpou6biaEmAVwh"}}}
+{
+  "id": 7,
+  "description": "Gold skinned, purple eyes imp - complete with The One outfit",
+  "external_url": "http://pickimpmix.github.io/imp/7",
+  "background_color": "7FFFFF",
+  "image": "ipfs://QmW9t7C4fW7AKp1gn5aCdkdMHj2M8dgwx9cUovpxaTytF2",
+  "name": "Pick \u0027Imp\u0027 Mix #7",
+  "attributes": [
+    { "trait_type": "Skin", "value": "Gold" },
+    { "trait_type": "Face", "value": "The One sunglasses" },
+    { "trait_type": "Top", "value": "The One Trench Coat" },
+    { "trait_type": "Bottom", "value": "The One Trousers" }
+  ],
+  "title": "Pick \u0027Imp\u0027 Mix #7 Metadata",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string", "description": "Pick \u0027Imp\u0027 Mix #7" },
+    "description": {
+      "type": "string",
+      "description": "Gold skinned, purple eyes imp - complete with The One outfit"
+    },
+    "image": {
+      "type": "string",
+      "description": "ipfs://QmW9t7C4fW7AKp1gn5aCdkdMHj2M8dgwx9cUovpxaTytF2"
+    },
+    "digital_media_signature_type": {
+      "type": "string",
+      "description": "SHA-256"
+    },
+    "digital_media_signature": {
+      "type": "string",
+      "description": "a0f212f1b787b7223f37d6c2158147f75b2236ac0347fa6f1114136239a7eb9a"
+    }
+  }
+}

@@ -1,1 +1,35 @@
-{"id":8,"description":"Blue skinned, green eyes imp - complete with rainbow tee and lifeguard shorts","external_url":"http://pickimpmix.github.io/imp/8","background_color":"FF9740","image":"ipfs://QmV9m6QcV2dKSyC89SYnPoskL46oD7zCE7HKQWvB2T2pz1","name":"Pick \u0027Imp\u0027 Mix #8","attributes":[{"trait_type":"Skin","value":"Blue"},{"trait_type":"Face","value":"Green Eyes"},{"trait_type":"Top","value":"Rainbow Tee"},{"trait_type":"Bottom","value":"Lifeguard Shorts"}],"title":"Pick \u0027Imp\u0027 Mix #8 Metadata","type":"object","properties":{"name":{"type":"string","description":"Pick \u0027Imp\u0027 Mix #8"},"description":{"type":"string","description":"Blue skinned, green eyes imp - complete with rainbow tee and lifeguard shorts"},"image":{"type":"string","description":"ipfs://QmV9m6QcV2dKSyC89SYnPoskL46oD7zCE7HKQWvB2T2pz1"}}}
+{
+  "id": 8,
+  "description": "Gold skinned, purple eyes imp - complete with Ghoul Catcher outfit",
+  "external_url": "http://pickimpmix.github.io/imp/8",
+  "background_color": "7FFFFF",
+  "image": "ipfs://QmcfdroQtKCmzzXdYGykgwgaDBMPrJXAYgaMnUkf7JF8Lt",
+  "name": "Pick \u0027Imp\u0027 Mix #8",
+  "attributes": [
+    { "trait_type": "Skin", "value": "Gold" },
+    { "trait_type": "Face", "value": "Purple Eyes" },
+    { "trait_type": "Top", "value": "Ghoul Catcher Flight Suit Top" },
+    { "trait_type": "Bottom", "value": "Ghoul Catcher Flight Suit Bottoms" }
+  ],
+  "title": "Pick \u0027Imp\u0027 Mix #8 Metadata",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string", "description": "Pick \u0027Imp\u0027 Mix #8" },
+    "description": {
+      "type": "string",
+      "description": "Gold skinned, purple eyes imp - complete with Ghoul Catcher outfit"
+    },
+    "image": {
+      "type": "string",
+      "description": "ipfs://QmcfdroQtKCmzzXdYGykgwgaDBMPrJXAYgaMnUkf7JF8Lt"
+    },
+    "digital_media_signature_type": {
+      "type": "string",
+      "description": "SHA-256"
+    },
+    "digital_media_signature": {
+      "type": "string",
+      "description": "5c9fc3ecac89d31e18ef40e1bc7dbd8c873c6e29d29f6dfa518fa231d5723935"
+    }
+  }
+}

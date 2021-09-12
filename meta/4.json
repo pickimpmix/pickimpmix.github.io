@@ -1,1 +1,35 @@
-{"id":4,"description":"Red skinned, sunglasses imp - complete with vest and harem pants","external_url":"http://pickimpmix.github.io/imp/4","background_color":"62B311","image":"ipfs://QmUC8CwR6Y3ZPAVht8VSmRLVLgTqjzSC6XbopnAjPsyhpH","name":"Pick \u0027Imp\u0027 Mix #4","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"Sunglasses"},{"trait_type":"Top","value":"Vest"},{"trait_type":"Bottom","value":"Harem Pants"}],"title":"Pick \u0027Imp\u0027 Mix #4 Metadata","type":"object","properties":{"name":{"type":"string","description":"Pick \u0027Imp\u0027 Mix #4"},"description":{"type":"string","description":"Red skinned, sunglasses imp - complete with vest and harem pants"},"image":{"type":"string","description":"ipfs://QmUC8CwR6Y3ZPAVht8VSmRLVLgTqjzSC6XbopnAjPsyhpH"}}}
+{
+  "id": 4,
+  "description": "Gold skinned, purple eyes imp - complete with Animal Inspector outfit",
+  "external_url": "http://pickimpmix.github.io/imp/4",
+  "background_color": "7FFFFF",
+  "image": "ipfs://QmSZtCY6ccvxCUn54TLKTUUKMMUizEDoy4zPJtfvxnuXpD",
+  "name": "Pick \u0027Imp\u0027 Mix #4",
+  "attributes": [
+    { "trait_type": "Skin", "value": "Gold" },
+    { "trait_type": "Face", "value": "Purple Eyes" },
+    { "trait_type": "Top", "value": "Animal Inspector Shirt" },
+    { "trait_type": "Bottom", "value": "Animal Inspector Trousers" }
+  ],
+  "title": "Pick \u0027Imp\u0027 Mix #4 Metadata",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string", "description": "Pick \u0027Imp\u0027 Mix #4" },
+    "description": {
+      "type": "string",
+      "description": "Gold skinned, purple eyes imp - complete with Animal Inspector outfit"
+    },
+    "image": {
+      "type": "string",
+      "description": "ipfs://QmSZtCY6ccvxCUn54TLKTUUKMMUizEDoy4zPJtfvxnuXpD"
+    },
+    "digital_media_signature_type": {
+      "type": "string",
+      "description": "SHA-256"
+    },
+    "digital_media_signature": {
+      "type": "string",
+      "description": "a8a214c1fa531742f3655f48dce40c1ea4f897d04c2dd571452ab9739480009d"
+    }
+  }
+}

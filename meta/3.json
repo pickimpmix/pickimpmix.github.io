@@ -1,1 +1,35 @@
-{"id":3,"description":"Green skinned, 3d glasses imp - complete with skull tee and tutu","external_url":"http://pickimpmix.github.io/imp/3","background_color":"D23583","image":"ipfs://QmbXZk3xdQYFpzZ8EBBWLJdGXqMVtnSNLaAuaZxW7rzQPc","name":"Pick \u0027Imp\u0027 Mix #3","attributes":[{"trait_type":"Skin","value":"Green"},{"trait_type":"Face","value":"3D Glasses"},{"trait_type":"Top","value":"Skull Tee"},{"trait_type":"Bottom","value":"Tutu"}],"title":"Pick \u0027Imp\u0027 Mix #3 Metadata","type":"object","properties":{"name":{"type":"string","description":"Pick \u0027Imp\u0027 Mix #3"},"description":{"type":"string","description":"Green skinned, 3d glasses imp - complete with skull tee and tutu"},"image":{"type":"string","description":"ipfs://QmbXZk3xdQYFpzZ8EBBWLJdGXqMVtnSNLaAuaZxW7rzQPc"}}}
+{
+  "id": 3,
+  "description": "Gold skinned, purple eyes imp - complete with T-420 outfit",
+  "external_url": "http://pickimpmix.github.io/imp/3",
+  "background_color": "7FFFFF",
+  "image": "ipfs://QmRBjYdq3Rz3qPbUjgiZVvQDpR8rahQXNU7uiY1S3nMs2A",
+  "name": "Pick \u0027Imp\u0027 Mix #3",
+  "attributes": [
+    { "trait_type": "Skin", "value": "Gold" },
+    { "trait_type": "Face", "value": "T-420 Glasses" },
+    { "trait_type": "Top", "value": "T-420 Leather Jacket" },
+    { "trait_type": "Bottom", "value": "T-420 Leather Trousers" }
+  ],
+  "title": "Pick \u0027Imp\u0027 Mix #3 Metadata",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string", "description": "Pick \u0027Imp\u0027 Mix #3" },
+    "description": {
+      "type": "string",
+      "description": "Gold skinned, purple eyes imp - complete with T-420 outfit"
+    },
+    "image": {
+      "type": "string",
+      "description": "ipfs://QmRBjYdq3Rz3qPbUjgiZVvQDpR8rahQXNU7uiY1S3nMs2A"
+    },
+    "digital_media_signature_type": {
+      "type": "string",
+      "description": "SHA-256"
+    },
+    "digital_media_signature": {
+      "type": "string",
+      "description": "2807431442351cc0f72ae3c266082075cde272167314b2081c49311595d99670"
+    }
+  }
+}

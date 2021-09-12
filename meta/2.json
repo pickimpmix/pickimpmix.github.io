@@ -1,1 +1,35 @@
-{"id":2,"description":"Red skinned, cyclops imp - complete with rainbow tee and heart boxer shorts","external_url":"http://pickimpmix.github.io/imp/2","background_color":"62B311","image":"ipfs://QmWC9eF9J1fXFbftWrh7ErTpQGX8emeJKXZgRXphhQ1rsK","name":"Pick \u0027Imp\u0027 Mix #2","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"Cyclops"},{"trait_type":"Top","value":"Rainbow Tee"},{"trait_type":"Bottom","value":"Heart Boxer Shorts"}],"title":"Pick \u0027Imp\u0027 Mix #2 Metadata","type":"object","properties":{"name":{"type":"string","description":"Pick \u0027Imp\u0027 Mix #2"},"description":{"type":"string","description":"Red skinned, cyclops imp - complete with rainbow tee and heart boxer shorts"},"image":{"type":"string","description":"ipfs://QmWC9eF9J1fXFbftWrh7ErTpQGX8emeJKXZgRXphhQ1rsK"}}}
+{
+  "id": 2,
+  "description": "Gold skinned, purple eyes imp - complete with Professor Chestnut outfit",
+  "external_url": "http://pickimpmix.github.io/imp/2",
+  "background_color": "7FFFFF",
+  "image": "ipfs://Qmd78Vm1CBQneTeGrGoDGURHPLwoUaFXzpiC1sf9yWEUE9",
+  "name": "Pick \u0027Imp\u0027 Mix #2",
+  "attributes": [
+    { "trait_type": "Skin", "value": "Gold" },
+    { "trait_type": "Face", "value": "Purple Eyes" },
+    { "trait_type": "Top", "value": "Professor Chestnut Coat" },
+    { "trait_type": "Bottom", "value": "Professor Chestnut Trousers" }
+  ],
+  "title": "Pick \u0027Imp\u0027 Mix #2 Metadata",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string", "description": "Pick \u0027Imp\u0027 Mix #2" },
+    "description": {
+      "type": "string",
+      "description": "Gold skinned, purple eyes imp - complete with Professor Chestnut outfit"
+    },
+    "image": {
+      "type": "string",
+      "description": "ipfs://Qmd78Vm1CBQneTeGrGoDGURHPLwoUaFXzpiC1sf9yWEUE9"
+    },
+    "digital_media_signature_type": {
+      "type": "string",
+      "description": "SHA-256"
+    },
+    "digital_media_signature": {
+      "type": "string",
+      "description": "677b1e9d3e572608e0983446a760bc9e3e78364aad10127cf587be219d6f570d"
+    }
+  }
+}

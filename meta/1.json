@@ -1,1 +1,35 @@
-{"id":1,"description":"Red skinned, green eyes imp - complete with skull tee and suit trousers","external_url":"http://pickimpmix.github.io/imp/1","background_color":"62B311","image":"ipfs://QmNyjaKJxw5UxUZUcycDsrYs4m137s5Nm61arHFaPDFLAg","name":"Pick \u0027Imp\u0027 Mix #1","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"Green Eyes"},{"trait_type":"Top","value":"Skull Tee"},{"trait_type":"Bottom","value":"Suit Trousers"}],"title":"Pick \u0027Imp\u0027 Mix #1 Metadata","type":"object","properties":{"name":{"type":"string","description":"Pick \u0027Imp\u0027 Mix #1"},"description":{"type":"string","description":"Red skinned, green eyes imp - complete with skull tee and suit trousers"},"image":{"type":"string","description":"ipfs://QmNyjaKJxw5UxUZUcycDsrYs4m137s5Nm61arHFaPDFLAg"}}}
+{
+  "id": 1,
+  "description": "Gold skinned, purple eyes imp - complete with McWalker outfit",
+  "external_url": "http://pickimpmix.github.io/imp/1",
+  "background_color": "7FFFFF",
+  "image": "ipfs://QmdGiJQWDyKGFXXwoBUNBE9cnjoKkf9c1TFzabQPmszF6i",
+  "name": "Pick \u0027Imp\u0027 Mix #1",
+  "attributes": [
+    { "trait_type": "Skin", "value": "Gold" },
+    { "trait_type": "Face", "value": "Purple Eyes" },
+    { "trait_type": "Top", "value": "McWalker Jacket" },
+    { "trait_type": "Bottom", "value": "McWalker Trousers" }
+  ],
+  "title": "Pick \u0027Imp\u0027 Mix #1 Metadata",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string", "description": "Pick \u0027Imp\u0027 Mix #1" },
+    "description": {
+      "type": "string",
+      "description": "Gold skinned, purple eyes imp - complete with McWalker outfit"
+    },
+    "image": {
+      "type": "string",
+      "description": "ipfs://QmdGiJQWDyKGFXXwoBUNBE9cnjoKkf9c1TFzabQPmszF6i"
+    },
+    "digital_media_signature_type": {
+      "type": "string",
+      "description": "SHA-256"
+    },
+    "digital_media_signature": {
+      "type": "string",
+      "description": "6f74e53af973f9e507560358da2446f45643f0ff4c1a224ded6e3f361e6a42e1"
+    }
+  }
+}
