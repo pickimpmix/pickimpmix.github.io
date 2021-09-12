@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/13",
-    "result": {"pageContext":{"data":{"id":"13","attributes":[{"trait_type":"Skin","value":"Green"},{"trait_type":"Face","value":"Green Eyes"},{"trait_type":"Top","value":"Suit Jacket"},{"trait_type":"Bottom","value":"Suit Trousers"}],"background_color":"D23583","description":"Green skinned, green eyes imp - complete with suit jacket and suit trousers","external_url":"http://pickimpmix.github.io/imp/13","image":"ipfs://QmTQTzTuEGsp8TrqLcToQjPv2oF91mmCtY4w6yCqfd9Wf9","name":"Pick 'Imp' Mix #13"}}},
+    "result": {"pageContext":{"data":{"id":"13","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"Sunglasses"},{"trait_type":"Top","value":"Hipster Outfit"},{"trait_type":"Bottom","value":"Heart Boxer Shorts"}],"background_color":"62B311","description":"Red skinned, sunglasses imp - complete with hipster outfit and heart boxer shorts","external_url":"http://pickimpmix.github.io/imp/13","image":"ipfs://QmTz7fT6k4RFuGQ52rWMeZ1RxEUy7NimZKpy2a1yvWNTXY","name":"Pick 'Imp' Mix #13"}}},
     "staticQueryHashes": []}

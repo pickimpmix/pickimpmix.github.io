@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-imp-js",
+    "path": "/imp/111",
+    "result": {"pageContext":{"data":{"id":"111","attributes":[{"trait_type":"Skin","value":"Blue"},{"trait_type":"Face","value":"Nerd Glasses"},{"trait_type":"Top","value":"Skull Tee"},{"trait_type":"Bottom","value":"Suit Trousers"}],"background_color":"FF9740","description":"Blue skinned, nerd glasses imp - complete with skull tee and suit trousers","external_url":"http://pickimpmix.github.io/imp/111","image":"ipfs://QmcqKcKdfwVnNAX44q8LWd2HiA4JgzAPr1dg19FXTo87ha","name":"Pick 'Imp' Mix #111"}}},
+    "staticQueryHashes": []}

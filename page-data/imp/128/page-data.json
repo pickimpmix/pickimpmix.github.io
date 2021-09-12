@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-imp-js",
+    "path": "/imp/128",
+    "result": {"pageContext":{"data":{"id":"128","attributes":[{"trait_type":"Skin","value":"Blue"},{"trait_type":"Face","value":"Sunglasses"},{"trait_type":"Top","value":"Rainbow Tee"},{"trait_type":"Bottom","value":"Tutu"}],"background_color":"FF9740","description":"Blue skinned, sunglasses imp - complete with rainbow tee and tutu","external_url":"http://pickimpmix.github.io/imp/128","image":"ipfs://QmUt2fJPhJuFUjSfvb5bDVunLTxq4h5K2TVP2cDk1FRFWZ","name":"Pick 'Imp' Mix #128"}}},
+    "staticQueryHashes": []}

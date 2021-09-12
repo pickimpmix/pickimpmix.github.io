@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-imp-js",
+    "path": "/imp/23",
+    "result": {"pageContext":{"data":{"id":"23","attributes":[{"trait_type":"Skin","value":"Blue"},{"trait_type":"Face","value":"Red Eyes"},{"trait_type":"Top","value":"Rainbow Tee"},{"trait_type":"Bottom","value":"Suit Trousers"}],"background_color":"FF9740","description":"Blue skinned, red eyes imp - complete with rainbow tee and suit trousers","external_url":"http://pickimpmix.github.io/imp/23","image":"ipfs://QmTb5i5W3u2jBBjCmSBz8aYSXw2aRmyVh9EPpRMjSKtVRM","name":"Pick 'Imp' Mix #23"}}},
+    "staticQueryHashes": []}

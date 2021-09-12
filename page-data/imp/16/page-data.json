@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/16",
-    "result": {"pageContext":{"data":{"id":"16","attributes":[{"trait_type":"Skin","value":"Blue"},{"trait_type":"Face","value":"Eye Patch"},{"trait_type":"Top","value":"Vest"},{"trait_type":"Bottom","value":"Kilt"}],"background_color":"FF9740","description":"Blue skinned, eye patch imp - complete with vest and kilt","external_url":"http://pickimpmix.github.io/imp/16","image":"ipfs://QmRT6GvF7y3XnDQXQzDTiNBvPda7KfFjmygaLix2jG5MTi","name":"Pick 'Imp' Mix #16"}}},
+    "result": {"pageContext":{"data":{"id":"16","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"Sunglasses"},{"trait_type":"Top","value":"College Hoodie"},{"trait_type":"Bottom","value":"Kilt"}],"background_color":"62B311","description":"Red skinned, sunglasses imp - complete with college hoodie and kilt","external_url":"http://pickimpmix.github.io/imp/16","image":"ipfs://QmXB7rxxverfjkCPkUwc2M2hGuTXHnbWvfzPWBPFzjrcrK","name":"Pick 'Imp' Mix #16"}}},
     "staticQueryHashes": []}

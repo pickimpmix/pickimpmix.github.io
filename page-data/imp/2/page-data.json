@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/2",
-    "result": {"pageContext":{"data":{"id":"2","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"Cyclops"},{"trait_type":"Top","value":"Rainbow Tee"},{"trait_type":"Bottom","value":"Heart Boxer Shorts"}],"background_color":"62B311","description":"Red skinned, cyclops imp - complete with rainbow tee and heart boxer shorts","external_url":"http://pickimpmix.github.io/imp/2","image":"ipfs://QmWC9eF9J1fXFbftWrh7ErTpQGX8emeJKXZgRXphhQ1rsK","name":"Pick 'Imp' Mix #2"}}},
+    "result": {"pageContext":{"data":{"id":"2","attributes":[{"trait_type":"Skin","value":"Gold"},{"trait_type":"Face","value":"Purple Eyes"},{"trait_type":"Top","value":"Professor Chestnut Coat"},{"trait_type":"Bottom","value":"Professor Chestnut Trousers"}],"background_color":"7FFFFF","description":"Gold skinned, purple eyes imp - complete with Professor Chestnut outfit","external_url":"http://pickimpmix.github.io/imp/2","image":"ipfs://Qmd78Vm1CBQneTeGrGoDGURHPLwoUaFXzpiC1sf9yWEUE9","name":"Pick 'Imp' Mix #2"}}},
     "staticQueryHashes": []}

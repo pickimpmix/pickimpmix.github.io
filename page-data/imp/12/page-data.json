@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/12",
-    "result": {"pageContext":{"data":{"id":"12","attributes":[{"trait_type":"Skin","value":"Green"},{"trait_type":"Face","value":"Eye Patch"},{"trait_type":"Top","value":"Vest"},{"trait_type":"Bottom","value":"Kilt"}],"background_color":"D23583","description":"Green skinned, eye patch imp - complete with vest and kilt","external_url":"http://pickimpmix.github.io/imp/12","image":"ipfs://QmaXsD13WRBnC87wdSuZ9pYXwv9y12dGUWqDLYL3vgVMRv","name":"Pick 'Imp' Mix #12"}}},
+    "result": {"pageContext":{"data":{"id":"12","attributes":[{"trait_type":"Skin","value":"Green"},{"trait_type":"Face","value":"Yellow Eyes"},{"trait_type":"Top","value":"Rainbow Tee"},{"trait_type":"Bottom","value":"Tutu"}],"background_color":"D23583","description":"Green skinned, yellow eyes imp - complete with rainbow tee and tutu","external_url":"http://pickimpmix.github.io/imp/12","image":"ipfs://QmSBGhy19hUmpXHjh3auVvrkYLfRuwbpGSWjFJNkLUFF3D","name":"Pick 'Imp' Mix #12"}}},
     "staticQueryHashes": []}

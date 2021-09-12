@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/14",
-    "result": {"pageContext":{"data":{"id":"14","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"Green Eyes"},{"trait_type":"Top","value":"Skull Tee"},{"trait_type":"Bottom","value":"Towel"}],"background_color":"62B311","description":"Red skinned, green eyes imp - complete with skull tee and towel","external_url":"http://pickimpmix.github.io/imp/14","image":"ipfs://QmZgvwBZuzRgWoA3o3CdZ7yrNUxkDBczt8UjpjqgEaZeBx","name":"Pick 'Imp' Mix #14"}}},
+    "result": {"pageContext":{"data":{"id":"14","attributes":[{"trait_type":"Skin","value":"Blue"},{"trait_type":"Face","value":"Red Eyes"},{"trait_type":"Top","value":"Hipster Outfit"},{"trait_type":"Bottom","value":"Suit Trousers"}],"background_color":"FF9740","description":"Blue skinned, red eyes imp - complete with hipster outfit and suit trousers","external_url":"http://pickimpmix.github.io/imp/14","image":"ipfs://QmcJd8NYS8mvTPyxkKHXE9y7FtWvXEr5eU3dpU88g4PfFo","name":"Pick 'Imp' Mix #14"}}},
     "staticQueryHashes": []}

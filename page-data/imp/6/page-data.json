@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/6",
-    "result": {"pageContext":{"data":{"id":"6","attributes":[{"trait_type":"Skin","value":"Green"},{"trait_type":"Face","value":"Sunglasses"},{"trait_type":"Top","value":"College Hoodie"},{"trait_type":"Bottom","value":"Kilt"}],"background_color":"D23583","description":"Green skinned, sunglasses imp - complete with college hoodie and kilt","external_url":"http://pickimpmix.github.io/imp/6","image":"ipfs://QmRnSUG1ipRNVJJgW4pNmswYa1fDR4o4SVZye3QFpv3caB","name":"Pick 'Imp' Mix #6"}}},
+    "result": {"pageContext":{"data":{"id":"6","attributes":[{"trait_type":"Skin","value":"Gold"},{"trait_type":"Face","value":"Lone Wolf Headband"},{"trait_type":"Top","value":"Lone Wolf Vest and Bandolier"},{"trait_type":"Bottom","value":"Lone Wolf Trousers"}],"background_color":"7FFFFF","description":"Gold skinned, purple eyes imp - complete with Lone Wolf outfit","external_url":"http://pickimpmix.github.io/imp/6","image":"ipfs://QmPYnJ83yJzqzncPkohjtqqeo47eMzYgvQqNSM7akPrCYn","name":"Pick 'Imp' Mix #6"}}},
     "staticQueryHashes": []}

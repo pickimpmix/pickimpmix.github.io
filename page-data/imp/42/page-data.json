@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-imp-js",
+    "path": "/imp/42",
+    "result": {"pageContext":{"data":{"id":"42","attributes":[{"trait_type":"Skin","value":"Green"},{"trait_type":"Face","value":"3D Glasses"},{"trait_type":"Top","value":"Festive Jumper"},{"trait_type":"Bottom","value":"Towel"}],"background_color":"D23583","description":"Green skinned, 3d glasses imp - complete with festive jumper and towel","external_url":"http://pickimpmix.github.io/imp/42","image":"ipfs://QmPcBbobBfEraX7McZViMWSnmk9L5o2sAQ322o9efi7NVM","name":"Pick 'Imp' Mix #42"}}},
+    "staticQueryHashes": []}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-imp-js",
     "path": "/imp/1",
-    "result": {"pageContext":{"data":{"id":"1","attributes":[{"trait_type":"Skin","value":"Red"},{"trait_type":"Face","value":"Green Eyes"},{"trait_type":"Top","value":"Skull Tee"},{"trait_type":"Bottom","value":"Suit Trousers"}],"background_color":"62B311","description":"Red skinned, green eyes imp - complete with skull tee and suit trousers","external_url":"http://pickimpmix.github.io/imp/1","image":"ipfs://QmNyjaKJxw5UxUZUcycDsrYs4m137s5Nm61arHFaPDFLAg","name":"Pick 'Imp' Mix #1"}}},
+    "result": {"pageContext":{"data":{"id":"1","attributes":[{"trait_type":"Skin","value":"Gold"},{"trait_type":"Face","value":"Purple Eyes"},{"trait_type":"Top","value":"McWalker Jacket"},{"trait_type":"Bottom","value":"McWalker Trousers"}],"background_color":"7FFFFF","description":"Gold skinned, purple eyes imp - complete with McWalker outfit","external_url":"http://pickimpmix.github.io/imp/1","image":"ipfs://QmdGiJQWDyKGFXXwoBUNBE9cnjoKkf9c1TFzabQPmszF6i","name":"Pick 'Imp' Mix #1"}}},
     "staticQueryHashes": []}
